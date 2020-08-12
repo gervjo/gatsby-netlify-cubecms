@@ -1,0 +1,4 @@
+---
+language: Allemand
+code: de
+---
